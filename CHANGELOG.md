@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/antwika/prometheus/compare/v0.0.5...v0.0.6) (2022-06-30)
+
+
+### Features
+
+* release package every Thursday at 12:15 UTC ([b4457fa](https://github.com/antwika/prometheus/commit/b4457fad19fced5d870c9348c4f6df0c40bdb076))
+* script for typedoc generation ([b766df3](https://github.com/antwika/prometheus/commit/b766df3505eb71b9372cd3f34e69d2546ac8c3e1))
+
+
+### Bug Fixes
+
+* **deps:** update dependency @antwika/http to v0.0.14 ([61a13e6](https://github.com/antwika/prometheus/commit/61a13e6fdb568288ac1579c58d7eba72faaa91ef))
+
 ### [0.0.5](https://github.com/antwika/prometheus/compare/v0.0.4...v0.0.5) (2022-06-26)
 
 
