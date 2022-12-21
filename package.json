@@ -43,7 +43,7 @@
     "typescript": "4.9.4"
   },
   "dependencies": {
-    "@antwika/http": "0.0.38",
+    "@antwika/http": "0.0.39",
     "prom-client": "^14.0.1"
   },
   "files": [
