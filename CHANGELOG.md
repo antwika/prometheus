@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.0.35](https://github.com/antwika/prometheus/compare/v0.0.34...v0.0.35) (2023-01-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @antwika/http to v0.0.43 ([22cef42](https://github.com/antwika/prometheus/commit/22cef42adf13b95c346650c5fb5f01ae6b5408e8))
+
 ## [0.0.34](https://github.com/antwika/prometheus/compare/v0.0.33...v0.0.34) (2023-01-12)
 
 
