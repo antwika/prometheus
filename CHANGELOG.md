@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.0.43](https://github.com/antwika/prometheus/compare/v0.0.42...v0.0.43) (2023-03-16)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @antwika/http to v0.0.51 ([b8cb9fd](https://github.com/antwika/prometheus/commit/b8cb9fd487419d795be3de0043b06e54406df181))
+* **deps:** update dependency prom-client to v14.2.0 ([0141f57](https://github.com/antwika/prometheus/commit/0141f578d61d013b49eac10f4ba3739116c1e262))
+
 ## [0.0.42](https://github.com/antwika/prometheus/compare/v0.0.41...v0.0.42) (2023-03-09)
 
 
