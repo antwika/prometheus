@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.0.51](https://github.com/antwika/prometheus/compare/v0.0.50...v0.0.51) (2023-05-11)
+
 ## [0.0.50](https://github.com/antwika/prometheus/compare/v0.0.49...v0.0.50) (2023-05-04)
 
 
