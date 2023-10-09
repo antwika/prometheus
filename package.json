@@ -44,7 +44,7 @@
   },
   "dependencies": {
     "@antwika/http": "0.0.80",
-    "prom-client": "^14.0.1"
+    "prom-client": "^15.0.0"
   },
   "files": [
     "bin",
